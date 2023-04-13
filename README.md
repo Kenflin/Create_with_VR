@@ -6,8 +6,7 @@
 
 ### - Modify Smooth Position and Rotation of XR Grab
 ### - Throw and Detach
-### - Laser throught MagGlass
-### - Bonus Turn off candle when shakeing.
+### - Bonus Turn off candle when shakeing.(Done but not tested because of Particule Flame not working)
 
 ## Testing
 
