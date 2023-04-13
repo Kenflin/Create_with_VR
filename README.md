@@ -2,10 +2,20 @@
 
 ## TODO List
 
+## Modifications
+
 ### - Modify Smooth Position and Rotation of XR Grab
 ### - Throw and Detach
 ### - Laser throught MagGlass
-### - Fireplace sound Min Distance and MaxDistance Test and change values
-### - Spatialize Reverb and Configuration
-### - Test Toggle Light for Spotlight and test Sound
-### - Test Lighter and collision with candle (Bonus Turn off when shakeing).
+### - Bonus Turn off candle when shakeing.
+
+## Testing
+
+### - Spatialize Reverb and Configuration 
+### - Test Lighter and collision with candle 
+
+
+## TO FIX
+
+### Mobile Sound Not Working Properly
+### Lighter and collision with candle (particle Flame have no mat shader)
