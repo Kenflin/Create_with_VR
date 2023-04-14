@@ -7,9 +7,10 @@
 ### - Modify Smooth Position and Rotation of XR Grab
 ### - Throw and Detach
 ### - Bonus Turn off candle when shakeing.(Done but not tested because of Particule Flame not working)
-### - Mark as Static to improve Batches - Without static 110 - with static 259
 
-##OPTIONAL
+### Static Objects - Scale in Lightmap to 0 (?) 
+
+## OPTIONAL
 
 ### - Extra 1 : Notepad with info
 ### - Extra 2 : More Steps in Welcome Info
