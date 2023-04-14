@@ -1,6 +1,6 @@
 # Create_With_VR
 
-_Acá va un párrafo que describa lo que es el proyecto_
+VR Experience made with Unity and XR Interaction Toolkit where you can interact with different objects in a room and also can trigger some effects in them.
 
 ### Pre requirements 📋
 
