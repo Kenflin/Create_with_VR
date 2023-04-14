@@ -9,6 +9,7 @@
 ### - Bonus Turn off candle when shakeing.(Done but not tested because of Particule Flame not working)
 
 ### Static Objects - Scale in Lightmap to 0 (?) 
+### Camera Options to the Mag Glass
 
 ## OPTIONAL
 
